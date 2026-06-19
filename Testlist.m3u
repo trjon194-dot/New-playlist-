@@ -1,0 +1,233 @@
+#EXTM3U
+
+# ============== BANGLADESHI CHANNELS ==============
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="Bangladesh",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV Chattogram" tvg-logo="" group-title="Bangladesh",BTV Chattogram
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="BTV News" tvg-logo="" group-title="Bangladesh",BTV News
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Sangsad Television" tvg-logo="" group-title="Bangladesh",Sangsad Television
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="" group-title="Bangladesh",ATN Bangla
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Channel i" tvg-logo="" group-title="Bangladesh",Channel i
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="Bangladesh",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="Bangladesh",RTV
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="BanglaVision" tvg-logo="" group-title="Bangladesh",BanglaVision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="" group-title="Bangladesh",Boishakhi TV
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="" group-title="Bangladesh",Mohona TV
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="MyTV" tvg-logo="" group-title="Bangladesh",MyTV
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV" tvg-logo="" group-title="Bangladesh",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="Bangladesh",GTV
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="" group-title="Bangladesh",Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="" group-title="Bangladesh",Asian TV
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="" group-title="Bangladesh",SA TV
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="" group-title="Bangladesh",Deepto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="" group-title="Bangladesh",Desh TV
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="" group-title="Bangladesh",Nagorik TV
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Ananda TV" tvg-logo="" group-title="Bangladesh",Ananda TV
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Global Television" tvg-logo="" group-title="Bangladesh",Global Television
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Green TV" tvg-logo="" group-title="Bangladesh",Green TV
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Channel S" tvg-logo="" group-title="Bangladesh",Channel S
+https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duronto TV" tvg-logo="" group-title="Bangladesh",Duronto TV
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Nexus Television" tvg-logo="" group-title="Bangladesh",Nexus Television
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="" group-title="Bangladesh",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="" group-title="Bangladesh",Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="" group-title="Bangladesh",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV" tvg-logo="" group-title="Bangladesh",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="" group-title="Bangladesh",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="" group-title="Bangladesh",Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="" group-title="Bangladesh",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News24" tvg-logo="" group-title="Bangladesh",News24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekhon TV" tvg-logo="" group-title="Bangladesh",Ekhon TV
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="" group-title="Bangladesh",T Sports
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV Bangla" tvg-logo="" group-title="Bangladesh",Peace TV Bangla
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey Television (ETV)" tvg-logo="" group-title="Bangladesh",Ekushey Television (ETV)
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Star News BD" tvg-logo="" group-title="Bangladesh",Star News BD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 1" tvg-logo="" group-title="Bangladesh",Channel 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+# ============== NEWLY ADDED MOVIES & ENT ==============
+#EXTINF:-1 tvg-id="" tvg-name="Cineedge HD" tvg-logo="" group-title="Movies",Cineedge HD
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Uniques HD" tvg-logo="" group-title="Movies",Uniques HD
+https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Superrix HD" tvg-logo="" group-title="Movies",Superrix HD
+https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Screem" tvg-logo="" group-title="Movies",Screem
+https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crimes" tvg-logo="" group-title="Movies",Crimes
+https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Stories" tvg-logo="" group-title="Movies",True Stories
+https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Intelligence" tvg-logo="" group-title="Movies",Intelligence
+https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Originals" tvg-logo="" group-title="Movies",Originals
+https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SRK TV" tvg-logo="" group-title="Entertainment",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+# ============== NEWLY ADDED KIDS & INFOTAINMENT ==============
+#EXTINF:-1 tvg-id="" tvg-name="Al Quran" tvg-logo="" group-title="Infotainment",Al Quran
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Luxell HD" tvg-logo="" group-title="Infotainment",Luxell HD
+https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Delicious" tvg-logo="" group-title="Infotainment",Delicious
+https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Program Promo" tvg-logo="" group-title="Infotainment",Program Promo
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BuddyStar HD" tvg-logo="" group-title="Kids",BuddyStar HD
+https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Joy" tvg-logo="" group-title="Kids",Joy
+https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Funny Junior HD" tvg-logo="" group-title="Kids",Funny Junior HD
+https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smarty" tvg-logo="" group-title="Kids",Smarty
+https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lucky Family" tvg-logo="" group-title="Kids",Lucky Family
+https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kids Stars" tvg-logo="" group-title="Kids",Kids Stars
+https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nikki" tvg-logo="" group-title="Kids",Nikki
+https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Party Universe" tvg-logo="" group-title="Music",Party Universe
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+
+# ============== INDIAN BANGLA CHANNELS ==============
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="" group-title="Indian Bangla",Star Jalsha
+https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="" group-title="Indian Bangla",Zee Bangla
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="" group-title="Indian Bangla",Colors Bangla
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Bangla" tvg-logo="" group-title="Indian Bangla",Sun Bangla
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Sony AATH" tvg-logo="" group-title="Indian Bangla",Sony AATH
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Rupashi Bangla" tvg-logo="" group-title="Indian Bangla",Rupashi Bangla
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="DD Bangla" tvg-logo="" group-title="Indian Bangla",DD Bangla
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="" group-title="Indian Bangla",Zee Bangla Cinema
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla Cinema" tvg-logo="" group-title="Indian Bangla",Colors Bangla Cinema
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="ABP Ananda" tvg-logo="" group-title="Indian Bangla",ABP Ananda
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News18 Bangla" tvg-logo="" group-title="Indian Bangla",News18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV9 Bangla" tvg-logo="" group-title="Indian Bangla",TV9 Bangla
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Republic Bangla" tvg-logo="" group-title="Indian Bangla",Republic Bangla
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kolkata TV" tvg-logo="" group-title="Indian Bangla",Kolkata TV
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="24 Ghanta" tvg-logo="" group-title="Indian Bangla",24 Ghanta
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Calcutta News" tvg-logo="" group-title="Indian Bangla",Calcutta News
+https://live.legitpro.co.in/cnnnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News Time Bangla" tvg-logo="" group-title="Indian Bangla",News Time Bangla
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Focus Bangla" tvg-logo="" group-title="Indian Bangla",Focus Bangla
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="Indian Bangla",Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="" group-title="Indian Bangla",Dhoom Music
+URL_HERE
+
+# ============== SPORTS CHANNELS ==============
+#EXTINF:-1 tvg-id="" tvg-name="T Sports (Bangladesh)" tvg-logo="" group-title="Sports",T Sports (Bangladesh)
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="BTV (Bangladesh)" tvg-logo="" group-title="Sports",BTV (Bangladesh)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Flash Guys HD" tvg-logo="" group-title="Sports",Flash Guys HD
+https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thunder Er" tvg-logo="" group-title="Sports",Thunder Er
+https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fighters" tvg-logo="" group-title="Sports",Fighters
+https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports Legends" tvg-logo="" group-title="Sports",Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crazy Ex" tvg-logo="" group-title="Sports",Crazy Ex
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports Range" tvg-logo="" group-title="Sports",Sports Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports Ten 1" tvg-logo="" group-title="Sports",Sony Sports Ten 1
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports Ten 2" tvg-logo="" group-title="Sports",Sony Sports Ten 2
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports Ten 3" tvg-logo="" group-title="Sports",Sony Sports Ten 3
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports Ten 5" tvg-logo="" group-title="Sports",Sony Sports Ten 5
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Sports18 1" tvg-logo="" group-title="Sports",Sports18 1
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="" group-title="Sports",beIN Sports 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="" group-title="Sports",beIN Sports 2
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="" group-title="Sports",beIN Sports 3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports" tvg-logo="" group-title="Sports",FOX Sports
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="FS1" tvg-logo="" group-title="Sports",FS1
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="Sports",Telemundo
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="BBC One" tvg-logo="" group-title="Sports",BBC One
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="ITV1" tvg-logo="" group-title="Sports",ITV1
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="SBS Australia" tvg-logo="" group-title="Sports",SBS Australia
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="TSN Canada" tvg-logo="" group-title="Sports",TSN Canada
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="CTV Canada" tvg-logo="" group-title="Sports",CTV Canada
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="" group-title="Sports",SuperSport Football
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Football" tvg-logo="" group-title="Sports",Sky Sport Football
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport" tvg-logo="" group-title="Sports",Arena Sport
+URL_HERE
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="" group-title="Sports",Eurosport
+URL_HERE
+
+# ============== INTERNATIONAL NEWS ==============
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="" group-title="News",Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
