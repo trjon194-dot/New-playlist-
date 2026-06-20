@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="tsports-1" tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/by-Roshan/BD-IPTV/main/Logos/T-Sports.png" group-title="Sports",1. T Sports HD
-htpp://wcup.sonyplex.com:8080/TSports-1/tracks-v1a1/mono.m3u8
+http://wcup.sonyplex.com:8080/TSports-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tsports-2" tvg-name="T Sports" tvg-logo="https://raw.githubusercontent.com/by-Roshan/BD-IPTV/main/Logos/T-Sports.png" group-title="Sports",2. T Sports
 http://103.14.151.101:8000/play/hoichoi24com/index.m3u8?hls
