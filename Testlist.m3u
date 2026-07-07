@@ -7,13 +7,13 @@ http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9qQOp-6WhJcg7pez3Udu4jg
 http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9pgz0uZ-ZF2sdSJhfMz1vas
 
 #EXTINF:-1 tvg-id="somoy-tv" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/by-Roshan/BD-IPTV/main/Logos/Somoy-TV.png" group-title="Sports",3. FIFA LIVE
-https://gffgfhhf.fgg-4le.pages.dev/1781995138/2dc2724ee30a4067aff4baa711ed33da/KBtSC6exZGkbGDKfxUnBBNZ-wd80Ee5ljq34e7DSmpI/fox-usa.m3u8
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/1/master_1300.m3u8?hdntl=Expires=1783523017~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AWIR_5EUCUNJlBmwdkBgozdJlQwCJcUIXxSghS9zJU3-vF3z20P5Ad1H5CJhFhYJWliDgwJVoas8vmDyprbOFhhaZe8G
 
 # ==========================================
 # ১. FIFA & PRIMARY FOOTBALL CHANNELS
 # ==========================================
 #EXTINF:-1 group-title="Sports",FIFA WORLD CUP LIVE-1
-http://84.17.50.102/fox/index.m3u8
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783523017~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AWIR_5EUCUNJlBmwdkBgozdJlQwCJcUIXxSghS9zJU3-vF3z20P5Ad1H5CJhFhYJWliDgwJVoas8vmDyprbOFhhaZe8G
 
 #EXTINF:-1 tvg-id="1" tvg-name="FIFA LIVE 2" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",FIFA WORLD CUP LIVE-2
 https://live.inplyr.com/room/434982.m3u8
