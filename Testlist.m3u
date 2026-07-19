@@ -4,7 +4,7 @@
 http://cdn.moviemazic.xyz:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=b48ef682aec92c7c09203b169ff53e1d87db90a8-cc00fc8b026f2e26b15c71265591f018-1784136690-1784125890
 
 #EXTINF:-1 tvg-id="tsports-2" tvg-name="T Sports" tvg-logo="https://raw.githubusercontent.com/by-Roshan/BD-IPTV/main/Logos/T-Sports.png" group-title="Sports",2. T Sports
-http://cdn.moviemazic.xyz:8083/Feedget/tsports/tracks-v1a1/mono.m3u8?token=951844fecd8654b3166ad5691805f80e82c21bd3-9f76788fb9ac7f98cf424a7287107482-1784136745-1784125945
+https://pull.niues.live/live/stream-9912060_lhd.m3u8
 
 #EXTINF:-1 tvg-id="somoy-tv" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/by-Roshan/BD-IPTV/main/Logos/Somoy-TV.png" group-title="Sports",3. FIFA LIVE
 http://cdn.moviemazic.xyz:8083/SomoyTv/tracks-v1a1/mono.m3u8?token=d32f2c5b8ab46dd5bca42168e52b9d641abf197c-31f21813a788555adc15601189361a2a-1784136760-1784125960
