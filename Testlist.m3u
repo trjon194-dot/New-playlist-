@@ -14,32 +14,12 @@ https://live1.streambylivepulse.com/live/channel6/playlist.m3u8
 #EXTINF:-1 group-title="Sports",FIFA WORLD CUP LIVE-1
 http://cdn.moviemazic.xyz:8083/un-sports/tracks-v1a1/mono.m3u8?token=383da5b8b87590177cf890006fcea18a10387255-f4ace0d77eb5482c15527a169b63c5bb-1784136813-1784126013
 
-#EXTINF:-1 tvg-id="1" tvg-name="FIFA LIVE 2" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",FIFA WORLD CUP LIVE-2
-http://cdn.moviemazic.xyz:8083/btv/tracks-v1a1/mono.m3u8?token=615cebd042833d62c65c0e8f4c6ff527787a90ef-bde4e5f8a138c1bfab01a1d68c27b653-1784136862-1784126062
-
 #EXTINF:-1 tvg-id="1" tvg-name="FIFA LIVE 3" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",FIFA WORLD CUP LIVE-3
 http://cdn.moviemazic.xyz:8083/Feedget/ptv_pk/tracks-v1a1/mono.m3u8?token=3850a315bcf05e697d804665bee0887fb772b162-8a79d32717ca4694bba90769fb3c4eda-1784136894-1784126094
 
-#EXTINF:-1 group-title="Sports",Fifa World cup
-http://wcup.sonyplex.com:8080/ev/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports",FIFA Live 🇦🇺 🇹🇷
-http://cdn.moviemazic.xyz:8083/Tsports-11/tracks-v1a1/mono.m3u8?token=941c6d9f8a05496a88c5d1eb9524a089dcd3bec3-efa1cc318f65119c9f14d5074bf4ea66-1784136921-1784126121
-
-#EXTINF:-1 group-title="Sports",FWC 2026 Football HD 1080p
-http://ubuntu.moonplex.net:8080/TSports_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (Somoy)
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="135" tvg-name="T Sports HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1745404555549.png" group-title="Sports",T Sports HD
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",Football World Cup 2026 (Alt)
-https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
-
-#EXTINF:-1 group-title="Sports",Fifa Sports Direct
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=6d0acac68c8b9252d083b0f27b819a1f&txTime=6a371a59
 
 
 # ==========================================
