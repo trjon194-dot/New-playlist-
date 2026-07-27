@@ -3,33 +3,15 @@
 #EXTINF:-1 tvg-id="tsports-1" tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/by-Roshan/BD-IPTV/main/Logos/T-Sports.png" group-title="Sports",1. T Sports HD
 http://cdn.moviemazic.xyz:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=b48ef682aec92c7c09203b169ff53e1d87db90a8-cc00fc8b026f2e26b15c71265591f018-1784136690-1784125890
 
-#EXTINF:-1 tvg-id="tsports-2" tvg-name="T Sports" tvg-logo="https://raw.githubusercontent.com/by-Roshan/BD-IPTV/main/Logos/T-Sports.png" group-title="Sports",2. T Sports
-https://pull.niues.live/live/stream-9912060_lhd.m3u8
-
 #EXTINF:-1 tvg-id="somoy-tv" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/by-Roshan/BD-IPTV/main/Logos/Somoy-TV.png" group-title="Sports",3. FIFA LIVE
 https://live1.streambylivepulse.com/live/channel6/playlist.m3u8
 # ==========================================
-# ১. FIFA & PRIMARY FOOTBALL CHANNELS
-# ==========================================
-#EXTINF:-1 group-title="Sports",FIFA WORLD CUP LIVE-1
-http://cdn.moviemazic.xyz:8083/un-sports/tracks-v1a1/mono.m3u8?token=383da5b8b87590177cf890006fcea18a10387255-f4ace0d77eb5482c15527a169b63c5bb-1784136813-1784126013
-
-#EXTINF:-1 tvg-id="1" tvg-name="FIFA LIVE 3" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports",FIFA WORLD CUP LIVE-3
-http://cdn.moviemazic.xyz:8083/Feedget/ptv_pk/tracks-v1a1/mono.m3u8?token=3850a315bcf05e697d804665bee0887fb772b162-8a79d32717ca4694bba90769fb3c4eda-1784136894-1784126094
-
-
-#EXTINF:-1 tvg-id="135" tvg-name="T Sports HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1745404555549.png" group-title="Sports",T Sports HD
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-
 
 # ==========================================
 # ২. BANGLADESHI CHANNELS (NEWS FIRST, THEN GENERAL)
 # ==========================================
 #EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="Bangla News",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-
-#EXTINF:-1 tvg-id="101" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561571597.png" group-title="Sports",FiFa Live Somoy TV
-http://wcup.sonyplex.com:8080/SOMYTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangla News",SOMOY TV-
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
