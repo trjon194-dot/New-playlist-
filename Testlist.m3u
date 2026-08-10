@@ -1,20 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="tsports-1" tvg-name="T Sports HD" tvg-logo="https://raw.githubusercontent.com/by-Roshan/BD-IPTV/main/Logos/T-Sports.png" group-title="Sports",1. T Sports HD
-http://cdn.moviemazic.xyz:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=b48ef682aec92c7c09203b169ff53e1d87db90a8-cc00fc8b026f2e26b15c71265591f018-1784136690-1784125890
-
+http://tv.netscopebd.com:8080/live/channel-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="somoy-tv" tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/by-Roshan/BD-IPTV/main/Logos/Somoy-TV.png" group-title="Sports",3. FIFA LIVE
-https://live1.streambylivepulse.com/live/channel6/playlist.m3u8
+http://tv.netscopebd.com:8080/live/ekushay/tracks-v1a1/mono.m3u8
 # ==========================================
 
 # ==========================================
 # ২. BANGLADESHI CHANNELS (NEWS FIRST, THEN GENERAL)
 # ==========================================
 #EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="Bangla News",Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+http://tv.netscopebd.com:8080/live/jamunatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangla News",SOMOY TV-
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+http://tv.netscopebd.com:8080/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="102" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="Bangla News",Ekattor HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
