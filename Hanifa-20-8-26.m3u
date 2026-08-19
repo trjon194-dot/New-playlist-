@@ -6,11 +6,6 @@ http://192.168.55.1:8000/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv%20news.png",BTV News
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/circle-512.jpg",Toffee TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1787138389:KeyName=prod_linear:Signature=zig9E0neluITqsII4FNHPYeSLzDGiELc3AxETKCCF-tmHgi82ZIz0QFWbpfoPPbNGrb65EHN0_t50cWGOv1wDg"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
-
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/R0J6rLBn/r2Pe-JQRk-KVBJNHu-A1u-ABt-MFat3ZFl-Xm4oj-Tt5SWI.png",Bangla 1
 https://video1.getstreamhosting.com:1936/eycqczsxka/eycqczsxka/playlist.m3u8
 
